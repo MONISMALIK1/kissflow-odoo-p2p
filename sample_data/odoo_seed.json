@@ -1,0 +1,21 @@
+{
+  "vendors": [
+    { "id": 11, "name": "Jumbo Electronics LLC", "email": "sales@jumbo.example.com" },
+    { "id": 12, "name": "Sharaf DG Business", "email": "b2b@sharafdg.example.com" },
+    { "id": 13, "name": "Office Plus Trading", "email": "orders@officeplus.example.com" },
+    { "id": 14, "name": "Microsoft Gulf", "email": "licensing@microsoft.example.com" },
+    { "id": 15, "name": "Almasa IT Distribution", "email": "sales@almasa.example.com" }
+  ],
+  "products": [
+    { "id": 101, "name": "Dell Latitude 5450 Laptop", "default_code": "DL-5450", "standard_price": 4200.0 },
+    { "id": 102, "name": "Apple MacBook Pro 14 M4", "default_code": "MBP-14-M4", "standard_price": 8500.0 },
+    { "id": 103, "name": "Dell 27-inch USB-C Monitor", "default_code": "DL-MON-27", "standard_price": 1100.0 },
+    { "id": 104, "name": "Logitech MX Keys Keyboard", "default_code": "LOG-MXK", "standard_price": 420.0 },
+    { "id": 105, "name": "Logitech MX Master 3S Mouse", "default_code": "LOG-MXM3S", "standard_price": 380.0 },
+    { "id": 106, "name": "USB-C Docking Station", "default_code": "DOCK-USBC", "standard_price": 650.0 },
+    { "id": 201, "name": "Microsoft 365 Business Standard (annual seat)", "default_code": "M365-BS", "standard_price": 540.0 },
+    { "id": 202, "name": "Adobe Creative Cloud (annual seat)", "default_code": "ADOBE-CC", "standard_price": 2600.0 },
+    { "id": 301, "name": "Ergonomic Office Chair", "default_code": "CHAIR-ERG", "standard_price": 950.0 },
+    { "id": 302, "name": "Height-Adjustable Standing Desk", "default_code": "DESK-ADJ", "standard_price": 1600.0 }
+  ]
+}

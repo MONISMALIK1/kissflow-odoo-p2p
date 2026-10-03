@@ -1,0 +1,51 @@
+[
+  {
+    "request_id": "PR-2026-0481",
+    "requester": "Aisha Khan",
+    "department": "Engineering",
+    "vendor_name": "Jumbo Electronics",
+    "currency": "AED",
+    "justification": "Standard onboarding kit for a new backend engineer.",
+    "lines": [
+      {
+        "description": "Dell Latitude 5450 laptop",
+        "quantity": 1,
+        "unit_price": 4200
+      },
+      {
+        "description": "MX Keys keyboard",
+        "quantity": 1,
+        "unit_price": 420
+      }
+    ]
+  },
+  {
+    "request_id": "PR-2026-0482",
+    "requester": "Omar Farouk",
+    "department": "Design",
+    "vendor_name": "Sharaf DG Business",
+    "currency": "AED",
+    "justification": "Replacement kit for design lead — current machine failing.",
+    "lines": [
+      {
+        "description": "MacBook Pro 14 M4",
+        "quantity": 1,
+        "unit_price": 11800
+      },
+      {
+        "description": "Adobe Creative Cloud seat",
+        "quantity": 1,
+        "unit_price": 2600
+      }
+    ]
+  },
+  {
+    "request_id": "PR-2026-0483",
+    "requester": "Lena Müller",
+    "department": "Operations",
+    "vendor_name": "Some Random Shop",
+    "currency": "AED",
+    "justification": "",
+    "raw_text": "Need a couple of standing desks and two ergonomic chairs for the new ops corner, plus a USB-C dock. Roughly 5k total I think."
+  }
+]

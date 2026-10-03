@@ -1,0 +1,20 @@
+{
+  "request_id": "PR-2026-0481",
+  "requester": "Aisha Khan",
+  "department": "Engineering",
+  "vendor_name": "Jumbo Electronics",
+  "currency": "AED",
+  "justification": "Standard onboarding kit for a new backend engineer.",
+  "lines": [
+    {
+      "description": "Dell Latitude 5450 laptop",
+      "quantity": 1,
+      "unit_price": 4200
+    },
+    {
+      "description": "MX Keys keyboard",
+      "quantity": 1,
+      "unit_price": 420
+    }
+  ]
+}
